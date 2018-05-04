@@ -1,5 +1,5 @@
 {
-  "name": "kb",
+  "name": "nodekb",
   "version": "1.0.0",
   "description": "Simple Knowledge Base App",
   "main": "app.js",
