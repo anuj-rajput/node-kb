@@ -1,0 +1,22 @@
+{
+  "name": "kb",
+  "version": "1.0.0",
+  "description": "Simple Knowledge Base App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anuj-rajput/node-kb.git"
+  },
+  "author": "Anuj Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuj-rajput/node-kb/issues"
+  },
+  "homepage": "https://github.com/anuj-rajput/node-kb#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
