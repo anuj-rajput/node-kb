@@ -1,5 +1,5 @@
 {
-  "name": "nodekb",
+  "name": "kb",
   "version": "1.0.0",
   "description": "Simple Knowledge Base App",
   "main": "app.js",
@@ -17,9 +17,13 @@
   },
   "homepage": "https://github.com/anuj-rajput/node-kb#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.3",
-    "mongoose": "^5.0.17",
-    "pug": "^2.0.3"
+    "body-parser": "^1.17.2",
+    "connect-flash": "^0.1.1",
+    "express": "^4.15.3",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "mongoose": "^4.10.2",
+    "pug": "^2.0.0-rc.1"
   }
 }
