@@ -28,5 +28,8 @@
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "pug": "^2.0.0-rc.1"
+  },
+  "engines": {
+    "node": "10.0.0"
   }
 }
